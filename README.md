@@ -5,6 +5,7 @@ Issue your own token and without touching a line of code. Use the advanced UI fe
 Just for 2.5 Ⓝ issue a brand new fungible token and own everything. Let other people know about your token.
 Do you really want to be on the bottom of the list of issued tokens?
 
-Go to [Token Farm](https://tkn.farm) now and make your own token today.
+Go to [Token Homes](https://tkn.homes) now and make your own token today.
+Go to [Token Homes Telegram](https://t.me/tknhomes) now and make your own token today.
 
 
